@@ -5,10 +5,10 @@ import fs from 'fs'
 
 /**Owner number**/
 global.owner = [
-  ['6282328303332', '️<Owner>'],
-  ['62895605887712', '<Admin>'],
-  ['6283190403329', '<Moderator>'],
-  ['6281313312123', '<>', true ]
+  ['6287719424487', '️<Owner>'],
+  ['6281368176386', '<Admin>'],
+  ['6282226078871', '<Moderator>'],
+  ['6283189579654', '<>', true ]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -38,26 +38,26 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '6287724225921'
-global.author = 'Rain-Bot Is the best'
+global.packname = '𝖲𝖺𝖼𝗁𝗂-𝖡𝗈𝗍𝗓𝗓 ไำ'
+global.author = '𝙰𝚐𝚞𝚗𝚐𝚡 𝚃𝚣𝚢𝚢 ไำ'
 global.wm = "Adventure pitur"
 global.multiplier = 69 // The higher, The harder levelup
 
 //
-global.eror = 'eror bodo'
+global.eror = 'eror bodo😆'
 global.wait = 'Process...'
 global.render = 'wait render'
-global.webs = 'https://rizxyu.github.io/sxzyweb/'//Your Website
-global.logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKsHEAITWM7dPQ_irYtNvZ1hiM_zj4tZ4f6A&usqp=CAU"//Your logo
+global.webs = 'blm punya web awkawk'//Your Website
+global.logo = "https://telegra.ph/file/3f876a993a94f0c6e4ced.jpg"//Your logo
 global.gcwangsaf = "https://chat.whatsapp.com/ITjd9jsIfBAK5byfdb2cxj"//Link Group whatsapp
 
 //Donasi
-global.saweria = ""// website saweria.co
-global.dana = [""]
-global.pulsa = [""]//pulsa here
-global.trakteer = ""//Link url https://
-global.paypal = ""//paypal email
-global.gopay = ""//Numver for Payment digital Gopay Gojek
+global.saweria = "–"// website saweria.co
+global.dana = ["–"]
+global.pulsa = ["087719424487"]//pulsa here
+global.trakteer = "–"//Link url https://
+global.paypal = "–"//paypal email
+global.gopay = "–"//Numver for Payment digital Gopay Gojek
 
 
 //Rpg
